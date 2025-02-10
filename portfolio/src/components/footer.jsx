@@ -37,24 +37,28 @@ function Footer() {
         <div className="justify-center text-center mb-7">
           <div className="flex flex-row items-center justify-center mt-4">
             <a
-              href=""
+              target="_blank"
+              href="https://github.com/supuntharindu123"
               className="p-3 mx-3 text-2xl text-white border border-white rounded-full hover:bg-slate-700 hover:text-white"
             >
               <FaGithub></FaGithub>
             </a>
             <a
-              href=""
+              target="_blank"
+              href="https://www.linkedin.com/in/supun-tharindu/"
               className="p-3 mx-3 text-2xl text-white border border-white rounded-full hover:bg-slate-700 hover:text-white"
             >
               <CiLinkedin></CiLinkedin>
             </a>
             <a
+              target="_blank"
               href=""
               className="p-3 mx-3 text-2xl text-white border border-white rounded-full hover:bg-slate-700 hover:text-white"
             >
               <FaFacebook></FaFacebook>
             </a>
             <a
+              target="_blank"
               href=""
               className="p-3 mx-3 text-2xl text-white border border-white rounded-full hover:bg-slate-700 hover:text-white"
             >
